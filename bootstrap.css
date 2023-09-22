@@ -1,0 +1,273 @@
+@media screen and (max-width: 500px) {
+   
+  }
+  
+  @media screen and (max-width: 1000px) {
+    .navbar{
+      color: aliceblue;
+      background: black;
+    }
+    .home-page{
+      height: auto;
+    }
+    .topnav.responsive {
+      background-color: black;
+      position: relative;
+    }
+    .topnav.responsive .icon {
+      display: block; /* Display the icon when the menu is responsive */
+  }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+      background-color: black;
+    }
+  
+    .topnav a:not(:first-child) {
+      display: none;
+    }
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+    .free-trial{
+      text-align: center;
+      justify-content: center;
+    }
+  }
+  
+  @media screen and  (min-width: 700px) and (max-width: 1200px) {
+    body{
+      width: auto;
+    }
+    .navbar{
+      color: aliceblue;
+      background: black;
+      background-color: black;
+    }
+    
+    .topnav{
+      background-color: black;
+      padding-left: 0%;
+      height: 80px;
+    }
+    .home-page{
+      background-color: black;
+      height: auto;
+    }
+    .home-page video{
+      display: none;
+    }
+    .free-trial {
+      margin-bottom: 30px;
+      
+    }
+    .home-page:hover .navbar{
+      background:black;
+    }
+    .page-2{
+      height: auto;
+    }
+    .left-2{
+     height: auto;
+    }
+    .left-2 h1{
+      font-size: 36px;
+    }
+    .left2-sec{
+      width: auto;
+      margin: 0px;
+    }
+    .right-2{
+      height: auto;
+    }
+    .page-3{
+      height: auto;
+    }
+    .img-4{
+      height: auto;
+    }
+    .img-4{
+      display: none;
+    }
+    .page-4{
+      height: auto;
+    }
+    .carousel{
+      display: block;
+      margin-top: 20px;
+      text-align: center;
+      
+    }
+    .page-6 {
+      height: auto;
+    }
+    .page-7{
+      height: auto;
+    }
+    .page-7 h3{
+      font-size: 40px;
+    }
+
+    .card-7 h2{
+      font: 36px;
+    }
+    .img-7{
+      height: auto;
+    }
+    .block-7{
+      height: auto;
+    }
+    .card-7{
+     text-align: center;
+      padding: 10px;
+      height: auto;
+    }
+    .card-7 h2{
+      font-size: 30px;
+    }
+    .page-8{
+      height: auto;
+      padding: 30px 60px 30px;
+    }
+    .page8-content h2{
+      font-size: 30px;
+    }
+    .page8-content p{
+      font-size: 15px;
+    }
+  }
+  @media screen and  (min-width:1200px) and (max-width: 1500px){
+
+    .page-4{
+      height: auto;
+    }
+    
+  }
+
+  
+  @media screen and  (max-width: 700px){
+    .home-page video{
+      display: none;
+    }
+    .navbar-1{
+      padding: 5px;
+    }
+    .home-page:hover .navbar{
+      background:black;
+    }
+   .topnav.responsive{
+      padding-left: 0%;
+      height: 60px;
+    }
+    .logo img{
+      width: 70px;
+    }
+    .home-page{
+      background-color: black;
+      height: auto;
+    }
+    .home-title {
+      height: 300px;
+    }
+    .home-title p {
+      font-size: 30px;
+    }
+    .home-subTitle {
+      height: 100px;
+    }
+    .home-subTitle p{
+      font-size: 15px;
+    }
+    .free-trial {
+      margin-bottom: 30px;
+      font-size: 12px;
+    }
+    
+      .page-2{
+        height: auto;
+      }
+      .left-2{
+       height: auto;
+       padding: 5%;
+      }
+      .left-2 h1{
+        font-size: 26px;
+      }
+      .left2-sec{
+        width: auto;
+        margin: 0px;
+      }
+      .left2-sec h3{
+        font-size: 30px;
+      }
+      .left2-sec p{
+        font-size: 14px;
+      }
+      .right-2{
+        height: auto;
+      }
+      .page-3{
+        height: auto;
+      }
+      .card1{
+        width: 80%;
+      }
+      .page-4{
+        
+        height: auto;
+      }
+      .page4-title h2{
+        font-size: 40px;
+      }
+      .img-4{
+        display: none;
+      }
+      .carousel{
+        display: block;
+        margin-top: 20px;
+        text-align: center;
+        
+      }
+      .page-5{
+        height: auto;
+      }
+      .page-6 {
+        height: auto;
+      }
+      .page-7{
+        height: auto;
+      }
+      .page-7 h3{
+        font-size: 40px;
+      }
+
+      .card-7 h2{
+        font: 36px;
+      }
+      .img-7{
+        height: auto;
+      }
+      .block-7{
+        height: auto;
+      }
+      .card-7{
+       text-align: center;
+        padding: 10px;
+        height: auto;
+      }
+      .card-7 h2{
+        font-size: 30px;
+      }
+      .page-8{
+        height: auto;
+        padding: 20px 50px 20px;
+      }
+      .page8-content h2{
+        font-size: 30px;
+      }
+      .page8-content p{
+        font-size: 15px;
+      }
+  }
